@@ -6,3 +6,4 @@ register in ALX for a free software engineering course
 
 project is maintained by Dayvies
 
+Updated the file after some changes
